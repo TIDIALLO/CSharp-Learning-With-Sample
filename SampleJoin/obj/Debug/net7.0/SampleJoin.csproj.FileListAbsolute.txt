@@ -1,0 +1,15 @@
+d:\dev\CSharpSample\SampleJoin\bin\Debug\net7.0\SampleJoin.exe
+d:\dev\CSharpSample\SampleJoin\bin\Debug\net7.0\SampleJoin.deps.json
+d:\dev\CSharpSample\SampleJoin\bin\Debug\net7.0\SampleJoin.runtimeconfig.json
+d:\dev\CSharpSample\SampleJoin\bin\Debug\net7.0\SampleJoin.dll
+d:\dev\CSharpSample\SampleJoin\bin\Debug\net7.0\SampleJoin.pdb
+d:\dev\CSharpSample\SampleJoin\obj\Debug\net7.0\SampleJoin.csproj.AssemblyReference.cache
+d:\dev\CSharpSample\SampleJoin\obj\Debug\net7.0\SampleJoin.GeneratedMSBuildEditorConfig.editorconfig
+d:\dev\CSharpSample\SampleJoin\obj\Debug\net7.0\SampleJoin.AssemblyInfoInputs.cache
+d:\dev\CSharpSample\SampleJoin\obj\Debug\net7.0\SampleJoin.AssemblyInfo.cs
+d:\dev\CSharpSample\SampleJoin\obj\Debug\net7.0\SampleJoin.csproj.CoreCompileInputs.cache
+d:\dev\CSharpSample\SampleJoin\obj\Debug\net7.0\SampleJoin.dll
+d:\dev\CSharpSample\SampleJoin\obj\Debug\net7.0\refint\SampleJoin.dll
+d:\dev\CSharpSample\SampleJoin\obj\Debug\net7.0\SampleJoin.pdb
+d:\dev\CSharpSample\SampleJoin\obj\Debug\net7.0\SampleJoin.genruntimeconfig.cache
+d:\dev\CSharpSample\SampleJoin\obj\Debug\net7.0\ref\SampleJoin.dll
